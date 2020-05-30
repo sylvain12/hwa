@@ -541,7 +541,7 @@ var app = (function () {
     }
 
     function instance$2($$self, $$props, $$invalidate) {
-    	let timeLeft = 3;
+    	let timeLeft = 20;
     	let progressValue = 0;
     	let increment = 100 / timeLeft;
     	let disabled = false;
