@@ -446,7 +446,7 @@ var app = (function () {
     	return {
     		c() {
     			div = element("div");
-    			div.innerHTML = `<img src="/assets/images/how_to_handwash_lge.gif" alt="image showed how to wash hand" class="svelte-10t3lmq">`;
+    			div.innerHTML = `<img src="assets/images/how_to_handwash_lge.gif" alt="image showed how to wash hand" class="svelte-10t3lmq">`;
     			attr(div, "class", "img-box");
     		},
     		m(target, anchor) {
