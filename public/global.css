@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;500;600&display=swap");
+
+/* COMMON */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Muli", sans-serif;
+  font-size: 1.6rem;
+  padding: 5rem 0rem;
+  background: #f4f4f4;
+}
